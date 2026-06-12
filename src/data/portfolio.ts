@@ -6,7 +6,7 @@ export const profile = {
   email: "deepak0422v@gmail.com",
   github: "https://github.com/deepak0422v",
   linkedin: "https://www.linkedin.com/in/deepak0422/",
-  resume: "/Resume_Main.pdf",
+  resume: "https://drive.google.com/file/d/19i6bdCS_ffJHe6crsv7KMeQ7RUsLT4Jl/preview",
   location: "India",
 };
 
